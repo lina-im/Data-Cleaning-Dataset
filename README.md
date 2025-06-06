@@ -1,6 +1,8 @@
 # Data-Cleaning-Dataset
 Using the "Healthcare Insurance" dataset from Kaggle, perform 10 operations in R to clean the data, perform operations on the data, and create visualizations of the data.
 
+Link: https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance/data
+
 # Description:
 The selected dataset was taken from Kaggle.com. The dataset is called, “Healthcare Insurance,” and it is a csv file consisting of 7 columns and 1339 rows. The 7 columns are: Age, sex, BMI, children, smoker, and region. While “age,” “bmi”, “children”, and “charges” are numerical, “sex,” “smoker,” and “region” are categorical values. The “age” column lists the insured person’s age. The “sex” column lists the gender (male/female) of the insured individual. The “bmi” (Body Mass Index) column lists the measure of body fat based on height and weight. The “children” column lists the number of dependents covered. The “smoker” column lists whether the insured is a smoker (yes/no). The “region” column lists the geographic area of coverage (southwest/southeast, northwest, northeast). The “charges” column lists the medical insurance costs incurred by the insured person. 
 
