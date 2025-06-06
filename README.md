@@ -17,3 +17,5 @@ List of 10 Operations:
 8.	Find outliers in the dataset for bmi and charges group by plotting them as a boxplot
 9.	Find average charges of all smokers (yes) who are male from the original vs reduced data set
 10.	Find average charges of individuals with <23 BMI in each of the four regions from the reduced dataset and create a bar plot with a legend to visualize this.
+
+The output of the 10 operations can be found in output_file.pdf.
